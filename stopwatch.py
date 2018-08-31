@@ -1,4 +1,4 @@
-
+#cool
 # define global variables
 
 timer=0
